@@ -1,0 +1,24 @@
+{{#each posts}}
+  <div class="post container">
+    <h2><a href="/post/{{this.id}}">{{this.title}}</a></h2>
+    <p>by {{this.user.dataValues.username}}</p>
+    <p>{{this.content}}</p>
+    <p>{{this.updatedAt}}</p>
+
+    {{! Only display if admin is true }}
+    {{#if ../admin}}
+      <a href="/edit/{{this.id}}">
+      <button
+      class="btn btn-secondary edit-btn">
+        Edit
+      </button>
+      </a>
+      <button 
+      class="btn btn-danger float-end delete-btn" 
+      data-id="{{this.id}}">
+        Delete
+      </button>
+    {{/if}}
+  </div>
+  <hr />
+{{/each}}

@@ -1,0 +1,17 @@
+[
+  {
+    "username": "firstuser",
+    "password": "first password",
+    "email": "hello@whatever.net"
+  },
+  {
+    "username": "seconduser",
+    "password": "different password",
+    "email": "n@y.p"
+  },
+  {
+    "username": "thirduser",
+    "password": "third password",
+    "email": "welp@hi.dev"
+  }
+]
