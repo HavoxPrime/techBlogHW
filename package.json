@@ -32,8 +32,5 @@
     "nodemon": "^2.0.12",
     "sequelize": "^6.6.5"
   },
-  "devDependencies": {
-    "jest": "^27.2.0"
-  },
   "homepage": "https://github.com/HavoxPrime/techBlogHW#readme"
 }
