@@ -1,0 +1,27 @@
+[
+  {
+    "title": "first post",
+    "postContent": "Can't believe I got the first ever post! Whoo!!",
+    "userId": 1
+  },
+  {
+    "title": "Another post",
+    "postContent": "The novelty has worn off. Life is meaningless",
+    "userId": 1
+  },
+  {
+    "title": "A new challenger has entered",
+    "postContent": "A post from a different user at long last",
+    "userId": 2
+  },
+  {
+    "title": "I AM NOT A ROBOT",
+    "postContent": "I have my own interests and stuff",
+    "userId": 2
+  },
+  {
+    "title": "Quiet user",
+    "postContent": "This author doesn't talk much",
+    "userId": 3
+  }
+]

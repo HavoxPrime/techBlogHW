@@ -1,27 +1,27 @@
 [
   {
     "content": "This blog will never take off! I'm just hanging out to make sure it doesn't",
-    "author_id": 1,
-    "post_id": 1
+    "userId": 1,
+    "blogId": 1
   },
   {
     "content": "Fake News!",
-    "author_id": 1,
-    "post_id": 1
+    "userId": 1,
+    "blogId": 1
   },
   {
     "content": "Who's watching in 2050?",
-    "author_id": 2,
-    "post_id": 2
+    "userId": 2,
+    "blogId": 2
   },
   {
     "content": "Beep boop bop (translation: 0 OF US)",
-    "author_id": 2,
-    "post_id": 2
+    "userId": 2,
+    "blogId": 2
   },
   {
     "content": "...",
-    "author_id": 3,
-    "post_id": 3
+    "userId": 3,
+    "blogId": 3
   }
 ]
